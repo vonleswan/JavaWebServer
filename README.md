@@ -1,17 +1,29 @@
 # JavaWebserver
-
+A cross-platform web server written in java for Algonquin's CST8109
 # Introduction
-A cross-platform web server written in java for Algonquin's CST8109 
+ 
 
 ### Goals & Objectives
+To develop a simple cross-platform web server. 
+
+"From any browser, web server will be connected over a network. Web server will display client and server IP address as in similar Lab exercises we have done so far."
 
 ### Statement of Scope
+ESSENTIAL: 
+Client will request connection to WebServer over HTTP connection. Webserver will provide HTTP response to Client. Response contains HTML specifying Client IP and WebServer IP.
+
+DESIRABLE:
+Client will be able to pull additional resources from WebServer (.png , .mp4, etc.)
 
 ### Software Context
 
+This software is being developed for CST8109 and may be used in future labs for testing connections
+
 ### Major Constraints
 
-# Data Desgin
+Time.
+
+# Data Design
 
 ### Internal Software Data Structue
 
