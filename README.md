@@ -15,6 +15,9 @@ Client will request connection to WebServer over HTTP connection. Webserver will
 DESIRABLE:
 Client will be able to pull additional resources from WebServer (.png , .mp4, etc.)
 
+FUTURE: 
+WebServer will accept incoming data to change internal systems
+
 ### Software Context
 
 This software is being developed for CST8109 and may be used in future labs for testing connections
